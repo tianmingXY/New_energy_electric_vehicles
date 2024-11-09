@@ -24,14 +24,14 @@
     代码也有详细注释（详细说明）
     【送新能源汽车数据采集项目爬虫】
 ## 项目运行部分截图
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/fe40c8c819974d12a0ff1cb861f6be94.png#pic_center)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/10ac6475dcfd44a18bde70d2f0eb36c7.png#pic_center)
+![在这里插入图片描述](a1.png)
+![在这里插入图片描述](a2.png)
+![在这里插入图片描述](a3.png)
+![在这里插入图片描述](a4.png)
+![在这里插入图片描述](a5.png)
+![在这里插入图片描述](a6.png)
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6f6584190b7149f6a627d582e9370eaa.png#pic_center)
-### 可视化统计分析
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e86accf2691345deb6fc3cdc6d8160e9.png#pic_center)
-### 后台管理页面
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/96311ce551b245b692ff6b9b396356d4.png#pic_center)
+
 
 
 ## 小结
